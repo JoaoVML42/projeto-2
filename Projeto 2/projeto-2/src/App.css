@@ -1,0 +1,16 @@
+.edit_button
+{
+    cursor: pointer;
+    color: var(--edit-button-color);
+    font-weight: bolder;
+    background-color: #fff;
+    border-color: #fff;
+}
+.delete_button
+{
+    cursor: pointer;
+    color: var(--delete-button-color);
+    font-weight: bolder;
+    background-color: #fff;
+    border-color: #fff;
+}
