@@ -1,4 +1,4 @@
-import './App.css';
+/*import './App.css';
 import './index.js';
 
 function deletar() {
@@ -50,4 +50,6 @@ function App() {
   );
 }
 
-export default App;
+export default App;*/
+
+//deixei tudo comentado porque essa foi justamente a parte que ficou faltando. O maximo que essa secao causaria sao erros.
